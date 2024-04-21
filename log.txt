@@ -1,0 +1,26 @@
+Epoch 1/7, Loss: 0.38737895216147106
+Epoch 2/7, Loss: 0.1809240700662136
+Epoch 3/7, Loss: 0.13478212680220603
+Epoch 4/7, Loss: 0.10790968041966359
+Epoch 5/7, Loss: 0.09086767078290384
+Epoch 6/7, Loss: 0.08082515180657307
+Epoch 7/7, Loss: 0.06921818495690822
+Accuracy on test set: 96.89%
+Precision on test set: 0.97%
+Recall on test set: 0.97%
+F1-score on test set: 0.97%
+Please enter a filepath (or 'exit' to quit): %
+Exiting... %
+Classifier: 7 %
+Please enter a filepath (or 'exit' to quit): %
+Classifier: 3 %
+Please enter a filepath (or 'exit' to quit): %
+Classifier: 1 %
+Please enter a filepath (or 'exit' to quit): %
+Classifier: 5 %
+Please enter a filepath (or 'exit' to quit): %
+Classifier: 0 %
+Please enter a filepath (or 'exit' to quit): %
+File not found. Please enter a valid filepath. %
+Please enter a filepath (or 'exit' to quit): %
+Exiting... %
