@@ -3,7 +3,9 @@
 Handwritten Digit Classification using Feedforward Neural Networks
 
 
-This project implements a feedforward neural network to classify handwritten digits from the MNIST dataset. The neural network is implemented in Python using PyTorch and Torchvision libraries. The project consists of the following files:
+This project implements a feedforward neural network to classify handwritten digits from the MNIST dataset. 
+The neural network is implemented in Python using PyTorch and Torchvision libraries. 
+The project consists of the following files:
 classifier.py: This file contains the main script for training the neural network, evaluating its performance, and interactive classification of handwritten digit images.
 mnist_model.pth: This file contains the trained model weights saved after training the neural network. It is loaded by the classifier.py script for inference.
 log.txt: This text file contains the training loss after each epoch and the final accuracy on the test set obtained during a previous training run of the model.
